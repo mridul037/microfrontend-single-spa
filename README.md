@@ -29,7 +29,7 @@ To get started with the project, follow the instructions below.
    ```bash
    git clone <repository-url>
    cd <repository-name>
-cd app1
-npm install  # or yarn install
-cd ../app2
-npm install ```
+   cd app1
+   npm install  # or yarn install
+   cd ../app2
+   npm install ```
